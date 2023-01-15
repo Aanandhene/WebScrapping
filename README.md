@@ -1,2 +1,2 @@
 # WebScrapping
-Amazon headphone webpagee is scrapped using python
+Amazon headphone webpage is scrapped using python
